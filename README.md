@@ -17,7 +17,6 @@ Official VS Code extension for NepaliLang programming language.
 
 1. Build the extension:
 ```bash
-cd vscode-extension
 npm install
 npm run compile
 ```
@@ -35,7 +34,6 @@ vsce package
 ### Development
 
 ```bash
-cd vscode-extension
 npm install
 npm run watch
 ```
